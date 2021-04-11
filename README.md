@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllenHibrain
 - 👀 I’m interested in  programação
-- 🌱 I’m currently learning  JavaScript, HTML5 e CSS3
+- 🌱 I’m currently learning  JavaScript, HTML5, CSS3 e Git.
 - 💞️ I’m looking to collaborate como Jovem Aprendiz
 - 📫 How to reach me :  https://www.linkedin.com/in/ellen-hibrain-khalil-a78879173
 
