@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EllenHibrain
-- 👀 I’m interested in  programação
+- 👋 Hi, I’m @EllenHibrain.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning  JavaScript, HTML5, CSS3 and Git.
-- 💞️ I’m looking to collaborate como Jovem Aprendiz
+- 💞️ I’m looking to collaborate Intern / Junior.
 - 📫 How to reach me :  https://www.linkedin.com/in/ellen-hibrain-khalil-a78879173
 
 <!---
